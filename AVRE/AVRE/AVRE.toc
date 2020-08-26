@@ -1,0 +1,33 @@
+## Author: Allara
+## Interface: 30300
+## Notes: AVR Encounters
+## Title: AVRE
+## Version: 1.0
+## SavedVariables: AVREDB
+## Dependencies: AVR
+## OptionalDeps: Ace3,LibShefkiTimer-1.0
+## X-Embeds: Ace3
+## X-Category: Boss Encounters
+## X-Curse-Packaged-Version: r103-release
+## X-Curse-Project-Name: AVR Encounters
+## X-Curse-Project-ID: avr-encounters
+## X-Curse-Repository-ID: wow/avr-encounters/mainline
+
+#@no-lib-strip@
+embeds.xml
+#@end-no-lib-strip@
+
+Libs\LibDataBroker-1.1\LibDataBroker-1.1.lua
+
+Locales\Strings.enUS.lua
+Locales\Strings.others.lua
+Locales\Zones.lua
+
+Core.lua
+Options_Defaults.lua
+
+modules.xml
+
+#@debug@
+# Tests.lua
+#@end-debug@

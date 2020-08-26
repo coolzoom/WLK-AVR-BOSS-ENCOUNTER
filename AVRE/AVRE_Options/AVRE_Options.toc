@@ -1,0 +1,13 @@
+## Interface: 30300
+## Title: AVRE [|caaedc99fOptions|r]
+## Notes: Configuration UI for AVRE. Save memory by disabling this if you don't need to reconfigure AVRE.
+## Author: Allara
+## Version: 1.0
+## Dependencies: AVRE
+## X-Part-Of: AVRE
+## X-Curse-Packaged-Version: r103-release
+## X-Curse-Project-Name: AVR Encounters
+## X-Curse-Project-ID: avr-encounters
+## X-Curse-Repository-ID: wow/avr-encounters/mainline
+
+Options.lua

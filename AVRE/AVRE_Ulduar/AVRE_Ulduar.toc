@@ -1,0 +1,15 @@
+## Interface: 30300
+## Title: AVRE [|caaedc99fUlduar|r]
+## Notes: Ulduar encounters for AVR Encounters.
+## Author: Allara
+## Version: 1.0
+## Dependencies: AVRE,AVR
+## LoadOnDemand: 1
+## X-Part-Of: AVRE
+## X-Curse-Packaged-Version: r103-release
+## X-Curse-Project-Name: AVR Encounters
+## X-Curse-Project-ID: avr-encounters
+## X-Curse-Repository-ID: wow/avr-encounters/mainline
+
+Locales.lua
+Encounters.lua

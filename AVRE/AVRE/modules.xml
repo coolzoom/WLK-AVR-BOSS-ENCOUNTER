@@ -1,0 +1,14 @@
+﻿<Ui xmlns="http://www.blizzard.com/wow/ui/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.blizzard.com/wow/ui/
+..\FrameXML\UI.xsd">
+ <!--@debug@
+ 
+ <Script file="Modules\Options\Options.lua"/>
+
+ <Script file="Modules\Icecrown\Locales.lua"/>
+ <Script file="Modules\Icecrown\Encounters.lua"/>
+
+ <Script file="Modules\Ulduar\Locales.lua"/>
+ <Script file="Modules\Ulduar\Encounters.lua"/>
+
+ @end-debug@-->
+</Ui>
